@@ -14,7 +14,7 @@ A **Java-based Expense Tracker** application that helps users manage their expen
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/ExpenseTracker.git
+   git clone https://github.com/idevanshrai/ExpenseTracker.git
    cd ExpenseTracker
    ```  
 
